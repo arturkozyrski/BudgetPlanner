@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.38-bin">
+    <CLASSES>
+      <root url="jar://C:/Program Files (x86)/MySQL/Connector.J 5.1/mysql-connector-java-5.1.38-bin.jar!/" />
+      <root url="jar://C:/Program Files/Java/jre1.8.0_60/lib/ext/JTattoo-1.6.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
